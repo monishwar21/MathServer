@@ -8,8 +8,8 @@
 ## FORMULA:
 BMI = W/H2
 BMI --> Body Mass Index
- W --> Weight
- H --> Height
+W --> Weight
+H --> Height
 
 ## DESIGN STEPS:
 
